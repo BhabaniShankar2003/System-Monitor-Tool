@@ -1,3 +1,4 @@
+<img width="1919" height="1199" alt="Screenshot 2025-11-08 211552" src="https://github.com/user-attachments/assets/5da3959d-1727-4c69-ac85-e5859ac9e17e" />
 🖥 Linux-Based System Monitor (C++) 📘 Objective
 
 A simple Linux-based system monitor built in C++, which displays real-time CPU usage, memory usage, and running process count by reading data from the /proc file system. This project was developed as part of the Capstone Project (Linux System Programming).
